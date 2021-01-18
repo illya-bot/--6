@@ -10,6 +10,8 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Практична робота 6");
+            Console.ReadKey();
         }
     }
 }
